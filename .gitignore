@@ -3,6 +3,9 @@
 venv/
 *.pyc
 *.db
+*.jpg
+*.JPG
+*.png
 __pycache__/
 
 instance/
